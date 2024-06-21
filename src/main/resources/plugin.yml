@@ -1,0 +1,8 @@
+name: EnderVanish
+version: '${project.version}'
+main: net.endkind.endervanish.EnderVanish
+api-version: '1.20'
+prefix: EnderVanish
+authors: [Endkind Ender]
+description: Lorum Impus
+website: https://www.endkind.net
