@@ -4,5 +4,10 @@ main: net.endkind.endervanish.EnderVanish
 api-version: '1.20'
 prefix: EnderVanish
 authors: [Endkind Ender]
-description: Lorum Impus
+description: A plugin to toggle player invisibility.
 website: https://www.endkind.net
+commands:
+  endervanish:
+    description: Toggle vanish mode.
+    aliases:
+      - vanish
