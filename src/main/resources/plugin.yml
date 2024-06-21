@@ -11,3 +11,4 @@ commands:
     description: Toggle vanish mode.
     aliases:
       - vanish
+    permission: endervanish.vanish
