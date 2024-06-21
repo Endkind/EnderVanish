@@ -38,4 +38,8 @@ public class CommandHandler implements CommandExecutor {
 
         return true;
     }
+
+    public Set<Player> getVanishedPlayers() {
+        return vanishedPlayers;
+    }
 }
