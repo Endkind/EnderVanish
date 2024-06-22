@@ -67,4 +67,9 @@ public class CommandHandler implements CommandExecutor {
             bossBar.removeAll();
         }
     }
+
+    public void clearVanish(Player player) {
+        vanishedPlayers.remove(player);
+        removeVanishBossBar(player);
+    }
 }
